@@ -17,3 +17,6 @@
 ## strategy desgin pattern export code
 ![alt text](images/img_8.png)
 
+## Log ascpet with spring AOP
+![alt text](images/img_9.png)
+![alt text](images/img_10.png)
