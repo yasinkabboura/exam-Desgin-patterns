@@ -1,6 +1,7 @@
 package metier.attributes.observers;
 
 import metier.attributes.Attribute;
+import metier.springAOP.Log;
 
 public class ObserverImpl implements Observer {
     Attribute attribute;
@@ -10,6 +11,7 @@ public class ObserverImpl implements Observer {
     }
 
     @Override
+    @Log
     public void update(Observable observable) {
         Attribute attribute = (Attribute)observable;
     }
