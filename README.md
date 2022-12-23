@@ -14,3 +14,6 @@
 ![alt text](images/img_6.png)
 ## adapter desgin pattern generate code
 ![alt text](images/img_7.png)
+## strategy desgin pattern export code
+![alt text](images/img_8.png)
+
